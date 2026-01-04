@@ -22,7 +22,7 @@ The circuit uses a **Voltage Divider Bias Network** to control the switching sta
 3.  **The Load (Output):** The transistor closes the circuit, sinking current from the LED to Ground, illuminating the light.
 
 ## 📸 Media
-The schematic 𓏠 :
+The schematic:
 
 ![Circuit Schematic](schematic.png)
 

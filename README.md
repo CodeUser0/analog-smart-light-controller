@@ -24,7 +24,7 @@ The circuit uses a **Voltage Divider Bias Network** to control the switching sta
 ## 📸 Media
 ![Circuit Schematic](schematic.png)
 
-[**▶️ Watch the Working Prototype Video**]()
+[**▶️ Watch the Working Prototype Video**](https://youtube.com/shorts/_RVxD4d8n0g?si=jsib7reHaQ1FTKd_)
 
 ## 🔋 Power Analysis
 * **Quiescent Current:** ~0.4mA (Daytime standby drain).
